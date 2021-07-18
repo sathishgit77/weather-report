@@ -1,5 +1,3 @@
-console.log("Sample script fiel included in the page")
-
 const weatherForm = document.querySelector("form")
 const locationInput = document.querySelector("form #location")
 const message1 = document.querySelector("#message1")
